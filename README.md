@@ -2,4 +2,5 @@
 
 天道酬勤，厚积薄发；淡泊明志，宁静致远！🤔✍️👀👨‍💻‍👊💪
 
-https://huangzonggui.github.io/
+blog: https://huangzonggui.github.io/
+掘金: https://juejin.cn/user/870468940997319
