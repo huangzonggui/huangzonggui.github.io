@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknew_blog_of_aki=self.webpackChunknew_blog_of_aki||[]).push([[740],{3049:e=>{e.exports=JSON.parse('{"label":"\u8da3\u56fe","permalink":"/docs/tags/\u8da3\u56fe","allTagsPath":"/docs/tags","count":1,"items":[{"id":"Think/images","title":"\u8da3\u56fe","description":"","permalink":"/docs/Think/images"}]}')}}]);

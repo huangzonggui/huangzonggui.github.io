@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknew_blog_of_aki=self.webpackChunknew_blog_of_aki||[]).push([[3237],{9754:(e,a,n)=>{n.r(a),n.d(a,{default:()=>l});var t=n(7294),_=n(6550);function l(){return t.createElement(_.l_,{to:"/docs/FE/JS_Base"})}}}]);
