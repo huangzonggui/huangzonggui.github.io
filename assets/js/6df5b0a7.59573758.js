@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknew_blog_of_aki=self.webpackChunknew_blog_of_aki||[]).push([[2657],{5888:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-search-local","id":"default"}')}}]);

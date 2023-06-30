@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknew_blog_of_aki=self.webpackChunknew_blog_of_aki||[]).push([[3237],{9754:(e,l,n)=>{n.r(l),n.d(l,{default:()=>u});var t=n(7294),a=n(6550),r=n(1058);function u(){return t.createElement("div",null,t.createElement("header",null,t.createElement(r.Z,null)),t.createElement(a.l_,{to:"/docs/FE/JS_Base"}))}}}]);
